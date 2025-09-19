@@ -36,4 +36,4 @@ This project demonstrates the principles of object-oriented programming and even
 
 ## Acknowledgments
 
-*   This project was inspired by and completed with the guidance of the **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)** by Dr. Angela Yu.
+*   This project was inspired by and completed with the guidance of the **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)** by Dr. Angela Yu.A huge thank you to her for the excellent instruction and comprehensive course material.
